@@ -34,14 +34,14 @@ h1{
     width: 100%;
     margin: 0px;
     padding: 0px;
-    position: absolute;
+    position: relative;
     left: 0px;
-    bottom: 0px;
+    bottom: -10px;
     border-radius: 100px 100px 0px 0px;
     color:white
 }
 .block{
-    margin: 4% 20% 20% ;
+    margin: 4% 20% 0% 20% ;
     display: flex;
     justify-content: space-evenly; 
 }
