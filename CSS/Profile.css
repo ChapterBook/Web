@@ -20,7 +20,7 @@ h1{
     margin: 0px;
     padding: 0px;
     width: 100%;
-    position: absolute;
+    position: relative;
     left: 0px;
     top: 0px;
     border-radius: 0px 0px 100px 100px;
